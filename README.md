@@ -1,7 +1,7 @@
 # trustynet
 A network of who we trust
 
-**Core Value:** Good Faith
+**Core Value:** Trust!
 
 ## Components
 
