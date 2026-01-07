@@ -4,6 +4,7 @@ A network of who we trust
 ## Core Values
 - Trust
 - Integrity
+- Calmness
 
 ## Components
 
